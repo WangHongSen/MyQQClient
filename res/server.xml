@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<server>
+    <ip>192.168.1.149</ip>
+    <!--<ip>10.132.29.208</ip>-->
+    <port>3333</port>
+</server>
